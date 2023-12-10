@@ -1,0 +1,4 @@
+{
+    "PORT": 3000,
+    "MONGO_URI": "mongodb+srv://hieuchud:6ThGDcTX0eyfQBHi@clustermoneycal.avqusqt.mongodb.net/?retryWrites=true&w=majority"
+}
