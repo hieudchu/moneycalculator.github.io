@@ -5,7 +5,7 @@ const config = require('./config.json');
 
 //routers
 const testRoute = require('./routes/testRoute');
-app.use('/test',testRoute); 
+app.use('/test', testRoute); 
 
 app.get('/', (req, res)=>{ 
     res.status(200); 
